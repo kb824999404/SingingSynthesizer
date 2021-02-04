@@ -20,6 +20,6 @@ You need a melody MIDI file, a lyrics file and a voice source library to synthes
 ### Usage example
 
 ```python
-python main.py
+python main.py -l inputs\\happysong.txt -m inputs\\happysong.mid -v voices\\geping -o outputs\\happysong_geping.wav -b inputs\\piano.wav -bo outputs\\happysong_geping_bgm.wav
 ```
 
