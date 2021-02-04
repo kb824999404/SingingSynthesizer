@@ -3,7 +3,6 @@ import utils
 
 
 if __name__ == "__main__":
-    syllableDict = {}
     MID_FILE = "inputs\\happysong.mid"      #旋律midi文件
     LYRICS_FILE = "inputs\\happysong.txt"   #歌词文件
 
